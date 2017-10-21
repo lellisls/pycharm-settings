@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="deviceData.py" type="PLAIN_TEXT" />
       <mapping pattern="arduinoController.py" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
