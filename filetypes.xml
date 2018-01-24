@@ -1,9 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".git-bashrc" type="PLAIN_TEXT" />
+      <mapping pattern=".profile" type="PLAIN_TEXT" />
       <mapping pattern="deviceData.py" type="PLAIN_TEXT" />
+      <mapping pattern=".gitconfig" type="PLAIN_TEXT" />
+      <mapping pattern=".bashrc_igor" type="PLAIN_TEXT" />
+      <mapping pattern=".bashrc" type="PLAIN_TEXT" />
       <mapping pattern="arduinoController.py" type="PLAIN_TEXT" />
+      <mapping pattern=".bashrc-bkp2" type="PLAIN_TEXT" />
+      <mapping pattern="git-initial-setup" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
